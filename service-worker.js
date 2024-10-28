@@ -2,8 +2,8 @@ const cacheName = 'wedding-app-v1'; // Consider changing this for updates
 const filesToCache = [
   '/',
   '/index.html',
-  'icons/wedding192.png',
-  'icons/wedding512.png',
+  '/icons/wedding192.png',
+  '/icons/wedding512.png',
   // Add other essential files like CSS and JS
 ];
 

@@ -69,14 +69,13 @@ h1, h2, h3, h4, h5, h6 {
 @media screen and (max-width: 768px) {
   #qbootstrap-header {
     margin-top: 0;
-    background: #fff;
     -webkit-box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
     -ms-box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
   }
   #qbootstrap-header .navbar-brand {
-    color: #FF847C !important;
+    color: #d1d1d1 !important;
   }
   #qbootstrap-header #navbar li a {
     color: rgba(0, 0, 0, 0.5) !important;
@@ -1918,9 +1917,6 @@ margin-bottom: 0;
   }
   #qbootstrap-countdown .section-heading h2 {
     margin-top: 20px;
-  }
-  #qbootstrap-started .overlay {
-    background: rgba(0, 0, 0, 0.8);
   }
   .qbootstrap-cover , #qbootstrap-countdown , #qbootstrap-started {
     background-attachment: fixed !important;
